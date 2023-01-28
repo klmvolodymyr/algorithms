@@ -26,4 +26,13 @@ Memory is expensive
 Memory is not always available in abundance. While dealing with code/system which requires 
 you to store or produce a lot of data, it is critical for your algorithm to save the 
 usage of memory by storing only their date of birth, not their age.
-You can always calculate it on the fly using their date of birth and current date.\
+You can always calculate it on the fly using their date of birth and current date.
+
+
+Binary Search Complexity
+    Time Complexities:
+        - Best case complexity: 0(1)
+        - Average case complexity: 0(log n)
+        - Worst case complexity: 0(log n)
+    Space Complexity
+        - The space complexity of the binary search os 0(1)
